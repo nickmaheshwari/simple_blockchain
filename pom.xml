@@ -45,7 +45,7 @@
 				<artifactId>exec-maven-plugin</artifactId>
 				<version>1.2.1</version>
 				<configuration>
-					<mainClass>simple_blockchain.BlockchainDriver</mainClass>
+					<mainClass>com.nicholasm.blockchain.BlockchainDriver</mainClass>
 				</configuration>
 			</plugin>
 
